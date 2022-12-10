@@ -14,6 +14,7 @@ Linux için
     code .
 
 #LICENSE
+
 [MIT](https:mit.com)
 
 #Örnek Resim
