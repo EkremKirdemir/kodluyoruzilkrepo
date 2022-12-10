@@ -15,7 +15,7 @@ Linux için
 
 #LICENSE
 
-[MIT](https:mit.com)
+[MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 #Örnek Resim
 
