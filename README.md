@@ -1,4 +1,5 @@
-# kodluyoruzilkrepo
+# kodluyoruzilkrepo 
+## patika.dev/ekremk
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 # Installation
